@@ -4,7 +4,7 @@ A lightweight, fully accessible, zero-dependency JavaScript toast notification l
 
 ![License](https://img.shields.io/npm/l/fly-toast)
 ![npm version](https://img.shields.io/npm/v/fly-toast)
-![Unpacked Size](https://img.shields.io/npm/uncompressed-size/fly-toast)
+![Bundle Size](https://img.shields.io/bundlephobia/minzip/fly-toast)
 
 ---
 

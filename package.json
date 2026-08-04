@@ -12,5 +12,13 @@
   ],
   "author": "Karem Amr Ragab",
   "license": "MIT",
-  "description": "A lightweight, customizable, and responsive toast notification library for web applications."
+  "description": "A lightweight, customizable, and responsive toast notification library for web applications.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karkemo/fly-toast.git"
+  },
+  "bugs": {
+    "url": "https://github.com/karkemo/fly-toast/issues"
+  },
+  "homepage": "https://github.com/karkemo/fly-toast#readme"
 }

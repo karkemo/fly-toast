@@ -1,0 +1,16 @@
+{
+  "name": "fly-toast",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "toast",
+    "notification",
+    "alert",
+    "fly-toast",
+    "ui"
+  ],
+  "author": "Karem Amr Ragab",
+  "license": "MIT",
+  "description": "A lightweight, customizable, and responsive toast notification library for web applications."
+}
